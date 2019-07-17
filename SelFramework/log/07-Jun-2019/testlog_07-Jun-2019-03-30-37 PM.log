@@ -1,0 +1,24 @@
+2019-06-07 15:30:48 INFO  Base:139 - Launched chrome browser with e-pragati URL
+2019-06-07 15:30:54 INFO  Base:141 - Sign in has been successful
+2019-06-07 15:31:02 INFO  Base:158 - Login is successful with Login with Mobile Number Option
+2019-06-07 15:31:17 INFO  Base:39 - Navigated to Add New Pensioner Page
+2019-06-07 15:31:17 INFO  Base:192 - Fetched Pensioner Work Object Id as : A-521
+2019-06-07 15:31:25 INFO  Base:45 - selected Service Type as AMC
+2019-06-07 15:31:26 INFO  Base:48 - selected Type Of Pension as Anticipatory Pension
+2019-06-07 15:31:30 INFO  Base:56 - selected District Name as Kurnool
+2019-06-07 15:31:32 INFO  Base:59 - selected AMC as Dhone
+2019-06-07 15:31:34 INFO  Base:62 - Entered Pensioner Name as Uma
+2019-06-07 15:31:36 INFO  Base:65 - Entered Mobile Number as 9492709084
+2019-06-07 15:31:41 INFO  Base:70 - Entered Date Of Birth as 2-Feb-1995
+2019-06-07 15:31:46 INFO  Base:75 - Entered Retirement Date as 4-June-2019
+2019-06-07 15:31:50 INFO  Base:83 - Entered Commutation Date as 15-June-2019
+2019-06-07 15:32:12 INFO  Base:87 - Selected Relationship as Son
+2019-06-07 15:32:12 INFO  Base:96 - Selected Additional Quantum Applicable as No
+2019-06-07 15:32:13 INFO  Base:101 - Selected DA Applicable as Yes
+2019-06-07 15:32:15 INFO  Base:199 - Entered Family Spouse Name as DSR
+2019-06-07 15:32:17 INFO  Base:202 - Entered Spouse Aadhaar Number as 584489188808
+2019-06-07 15:32:19 INFO  Base:205 - Entered Child1 Name as DRR
+2019-06-07 15:32:22 INFO  Base:208 - Entered Child1 Aadhaar Number as 584489188765
+2019-06-07 15:32:24 INFO  Base:211 - Entered Child2 Name as DTG
+2019-06-07 15:32:26 INFO  Base:214 - Entered Child2 Aadhaar Number as 654489188808
+2019-06-07 15:32:29 INFO  Base:222 - Entered Basic Pension as 100

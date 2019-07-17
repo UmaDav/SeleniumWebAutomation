@@ -1,0 +1,39 @@
+2019-06-07 15:09:04 INFO  Base:139 - Launched chrome browser with e-pragati URL
+2019-06-07 15:09:12 INFO  Base:141 - Sign in has been successful
+2019-06-07 15:09:18 INFO  Base:158 - Login is successful with Login with Mobile Number Option
+2019-06-07 15:09:31 INFO  Base:39 - Navigated to Add New Pensioner Page
+2019-06-07 15:09:31 INFO  Base:190 - Fetched Pensioner Work Object Id as : A-519
+2019-06-07 15:09:39 INFO  Base:45 - selected Service Type as AMC
+2019-06-07 15:09:40 INFO  Base:48 - selected Type Of Pension as Anticipatory Pension
+2019-06-07 15:09:43 INFO  Base:53 - selected District Name as Kurnool
+2019-06-07 15:09:45 INFO  Base:56 - selected AMC as Dhone
+2019-06-07 15:09:47 INFO  Base:59 - Entered Pensioner Name as Uma
+2019-06-07 15:09:49 INFO  Base:62 - Entered Mobile Number as 9492709084
+2019-06-07 15:09:54 INFO  Base:67 - Entered Date Of Birth as 2-Feb-1995
+2019-06-07 15:09:59 INFO  Base:72 - Entered Retirement Date as 4-June-2019
+2019-06-07 15:10:03 INFO  Base:81 - Entered Commutation Date as 15-June-2019
+2019-06-07 15:10:07 INFO  Base:85 - Selected Relationship as Son
+2019-06-07 15:10:07 INFO  Base:94 - Selected Additional Quantum Applicable as No
+2019-06-07 15:10:07 INFO  Base:99 - Selected DA Applicable as Yes
+2019-06-07 15:10:09 INFO  Base:197 - Entered Family Spouse Name as DSR
+2019-06-07 15:10:11 INFO  Base:200 - Entered Spouse Aadhaar Number as 584489188808
+2019-06-07 15:10:14 INFO  Base:203 - Entered Child1 Name as DRR
+2019-06-07 15:10:16 INFO  Base:206 - Entered Child1 Aadhaar Number as 584489188765
+2019-06-07 15:10:18 INFO  Base:209 - Entered Child2 Name as DTG
+2019-06-07 15:10:20 INFO  Base:212 - Entered Child2 Aadhaar Number as 654489188808
+2019-06-07 15:10:22 INFO  Base:219 - Entered Basic Pension as 100
+2019-06-07 15:10:25 INFO  Base:223 - Entered Medical Allowance as 100
+2019-06-07 15:10:27 INFO  Base:227 - Entered Commutation Portion Pension as 100
+2019-06-07 15:10:29 INFO  Base:231 - Entered Arrears as 10
+2019-06-07 15:10:31 INFO  Base:235 - Entered IR Arrears as 10
+2019-06-07 15:10:34 INFO  Base:239 - Entered DA Arrears as 20.00
+2019-06-07 15:10:36 INFO  Base:246 - Entered IFSCCode as SBIN0000884
+2019-06-07 15:10:38 INFO  Base:249 - Entered AccountNumber as 123456789
+2019-06-07 15:10:40 INFO  Base:255 - Verified Bank Name as STATE BANK OF INDIA
+2019-06-07 15:10:40 INFO  Base:261 - Verified Branch Address as NARASARAOPET
+2019-06-07 15:10:43 INFO  Base:270 - Entered SupplemenaryBillAmount as 342
+2019-06-07 15:10:47 INFO  Base:274 - Clicked on Attch Go button to upload files
+2019-06-07 15:10:47 INFO  Base:276 - Uploaded file successfully
+2019-06-07 15:10:52 INFO  Base:170 - Validated Pension Start Date as 05/06/2019
+2019-06-07 15:10:53 INFO  Base:183 - Validated Commutation Payment End Date as 14/06/2034
+2019-06-07 15:10:53 INFO  Base:126 - written Pension Object Id as A-519

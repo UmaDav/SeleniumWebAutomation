@@ -1,0 +1,8 @@
+2019-06-07 15:22:19 INFO  Base:139 - Launched chrome browser with e-pragati URL
+2019-06-07 15:22:23 INFO  Base:141 - Sign in has been successful
+2019-06-07 15:22:28 INFO  Base:158 - Login is successful with Login with Mobile Number Option
+2019-06-07 15:22:40 INFO  Base:39 - Navigated to Add New Pensioner Page
+2019-06-07 15:22:41 INFO  Base:192 - Fetched Pensioner Work Object Id as : A-520
+2019-06-07 15:22:49 INFO  Base:45 - selected Service Type as AMC
+2019-06-07 15:22:50 INFO  Base:48 - selected Type Of Pension as Anticipatory Pension
+2019-06-07 15:22:54 INFO  Base:56 - selected District Name as Kurnool

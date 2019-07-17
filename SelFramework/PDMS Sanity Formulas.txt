@@ -1,0 +1,51 @@
+Summary of PDMS:
+
+5 functional flows
+
+1. Add Pensioner
+Case Type(A-XXXX)
+Service Pension, Family Pension, Enhanced Family Pension - Type of Pension.
+Pensioner Aadhaar Number(Required) - Need confirmation from Avinash.
+Table on Additional Quantum Applicable - To be sent by Avinash.
+Commutation Portion Pension date should be after retirement date.
+Supplementary bills - 
+
+Add Pensioner Formula's:
+Total = Basic Pension + Add(l) Quantum Of Pension
+DA Applicable if selected No then Medical Allowance should be defaulted to 0
+Dearness Allowance = Current DR*Total/100
+Commutation Payment Date+15 years =Commutation Payment End Date
+Retirement Date+1 day=Pension Start Date
+Add(l) Quantum Of Pension = Check table
+Interim Relief (IR) = Basic*Current IR/100
+Gross Total = Total+MedicalAllowance+DA+Arrears+InterimRelief+IRArrears+DAArrears
+Net Pension = Gross Total-CommutationPortionPension-Deductions
+
+>=70 to <75 = 10% * Basic Pension
+>=75 to <80 = 15% * Basic Pension
+>=80 to <85 = 20% * Basic Pension
+>=85 to <90 = 25% * Basic Pension
+>=90 to <95 = 30% * Basic Pension
+>=95 to <100 = 35% * Basic Pension
+>=100 to <150 = 50% * Basic Pension
+
+SH-->AO-->DD-->Commisioner.
+Added record will be displayed in the list of pensioner records list
+Verification: SH Reports-->Search for the record in Reports tab of SH.
+
+2. Edit Pensioner(EP-XX)
+-->All Pensioners, Bulk Deductions
+Edit any record, same forumulas:
+Add Pensioner Formula's:
+Total = Basic Pension + Add(l) Quantum Of Pension
+Dearness Allowance = Current DR*Total/100
+Add(l) Quantum Of Pension = Check table
+Interim Relief (IR) = Basic*Current IR/100
+Gross Total = Total+MedicalAllowance+DA+Arrears+InterimRelief+IRArrears+DAArrears
+Net Pension = Gross Total-CommutationPortionPension-Deductions
+
+Update
+
+3.Update IR, Update DA Formulas:(IR-21)(U-325)
+
+4.Initiate authorization.(No Case ID)

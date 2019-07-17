@@ -1,0 +1,13 @@
+2019-06-07 16:48:58 INFO  Base:139 - Launched chrome browser with e-pragati URL
+2019-06-07 16:49:01 INFO  Base:141 - Sign in has been successful
+2019-06-07 16:49:06 INFO  Base:158 - Login is successful with Login with Mobile Number Option
+2019-06-07 16:49:19 INFO  Base:39 - Navigated to Add New Pensioner Page
+2019-06-07 16:49:19 INFO  Base:192 - Fetched Pensioner Work Object Id as : A-43042
+2019-06-07 16:49:27 INFO  Base:45 - selected Service Type as AMC
+2019-06-07 16:49:28 INFO  Base:48 - selected Type Of Pension as Anticipatory Pension
+2019-06-07 16:49:32 INFO  Base:56 - selected District Name as Kurnool
+2019-06-07 16:49:34 INFO  Base:59 - selected AMC as Dhone
+2019-06-07 16:49:36 INFO  Base:62 - Entered Pensioner Name as Uma
+2019-06-07 16:49:38 INFO  Base:65 - Entered Mobile Number as 9492709084
+2019-06-07 16:49:43 INFO  Base:70 - Entered Date Of Birth as 2-Feb-1995
+2019-06-07 16:49:48 INFO  Base:75 - Entered Retirement Date as 4-June-2019

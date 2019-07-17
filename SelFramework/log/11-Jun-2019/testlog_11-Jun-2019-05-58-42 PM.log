@@ -1,0 +1,19 @@
+2019-06-11 17:58:52 INFO  Base:141 - Launched chrome browser with e-pragati URL
+2019-06-11 17:58:55 INFO  Base:149 - Sign in has been successful
+2019-06-11 17:58:59 INFO  Base:162 - Login is successful with Login with Mobile Number Option
+2019-06-11 17:59:25 INFO  Base:146 - Entered PPO Number as PPO123
+2019-06-11 17:59:26 INFO  Base:149 - selected Type Of Pension as Service Pension
+2019-06-11 17:59:30 INFO  Base:156 - selected District Name as Guntur
+2019-06-11 17:59:32 INFO  Base:159 - selected AMC as Guntur
+2019-06-11 17:59:35 INFO  Base:162 - Entered Pensioner Name as TPR
+2019-06-11 17:59:37 INFO  Base:165 - Entered Mobile Number as 9492709084
+2019-06-11 17:59:42 INFO  Base:170 - Entered Date Of Birth as 22-Jul-1947
+2019-06-11 17:59:46 INFO  Base:175 - Entered Retirement Date as 24-June-2005
+2019-06-11 17:59:51 INFO  Base:180 - Entered Commutation Date as 5-June-2019
+2019-06-11 17:59:56 INFO  Base:406 - Entered Basic Pension as 10000
+2019-06-11 18:00:00 INFO  Base:415 - Entered Medical Allowance as 100
+2019-06-11 18:00:05 INFO  Base:424 - Entered Commutation Portion Pension as 200
+2019-06-11 18:00:10 INFO  Base:433 - Entered Arrears as 1000
+2019-06-11 18:00:14 INFO  Base:441 - Entered Deductions as 100
+2019-06-11 18:00:19 INFO  Base:451 - Entered IR Arrears as 100
+2019-06-11 18:00:25 INFO  Base:463 - Entered DA Arrears as 100

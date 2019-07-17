@@ -1,0 +1,35 @@
+2019-06-07 12:56:54 INFO  Base:139 - Launched chrome browser with e-pragati URL
+2019-06-07 12:56:58 INFO  Base:141 - Sign in has been successful
+2019-06-07 12:57:02 INFO  Base:158 - Login is successful with Login with Mobile Number Option
+2019-06-07 12:57:15 INFO  Base:39 - Navigated to Add New Pensioner Page
+2019-06-07 12:57:16 INFO  Base:190 - Fetched Pensioner Work Object Id as : A-518
+2019-06-07 12:57:24 INFO  Base:45 - selected Service Type as AMC
+2019-06-07 12:57:25 INFO  Base:48 - selected Type Of Pension as Anticipatory Pension
+2019-06-07 12:57:27 INFO  Base:53 - selected District Name as Kurnool
+2019-06-07 12:57:30 INFO  Base:56 - selected AMC as Dhone
+2019-06-07 12:57:32 INFO  Base:59 - Entered Pensioner Name as Uma
+2019-06-07 12:57:34 INFO  Base:62 - Entered Mobile Number as 9492709084
+2019-06-07 12:57:39 INFO  Base:67 - Entered Date Of Birth as 2-Feb-1995
+2019-06-07 12:57:44 INFO  Base:72 - Entered Retirement Date as 4-June-2019
+2019-06-07 12:57:48 INFO  Base:81 - Entered Commutation Date as 15-June-2019
+2019-06-07 12:57:51 INFO  Base:85 - Selected Relationship as Son
+2019-06-07 12:57:52 INFO  Base:94 - Selected Additional Quantum Applicable as No
+2019-06-07 12:57:52 INFO  Base:99 - Selected DA Applicable as Yes
+2019-06-07 12:57:54 INFO  Base:197 - Entered Family Spouse Name as DSR
+2019-06-07 12:57:56 INFO  Base:200 - Entered Spouse Aadhaar Number as 584489188808
+2019-06-07 12:57:58 INFO  Base:203 - Entered Child1 Name as DRR
+2019-06-07 12:58:01 INFO  Base:206 - Entered Child1 Aadhaar Number as 584489188765
+2019-06-07 12:58:03 INFO  Base:209 - Entered Child2 Name as DTG
+2019-06-07 12:58:05 INFO  Base:212 - Entered Child2 Aadhaar Number as 654489188808
+2019-06-07 12:58:08 INFO  Base:219 - Entered Basic Pension as 100
+2019-06-07 12:58:10 INFO  Base:223 - Entered Medical Allowance as 100
+2019-06-07 12:58:12 INFO  Base:227 - Entered Commutation Portion Pension as 100
+2019-06-07 12:58:14 INFO  Base:231 - Entered Arrears as 10
+2019-06-07 12:58:17 INFO  Base:235 - Entered IR Arrears as 10
+2019-06-07 12:58:19 INFO  Base:239 - Entered DA Arrears as 20.00
+2019-06-07 12:58:21 INFO  Base:246 - Entered IFSCCode as SBIN0000884
+2019-06-07 12:58:24 INFO  Base:249 - Entered AccountNumber as 123456789
+2019-06-07 12:58:26 INFO  Base:255 - Verified Bank Name as STATE BANK OF INDIA
+2019-06-07 12:58:26 INFO  Base:261 - Verified Branch Address as NARASARAOPET
+2019-06-07 12:58:28 INFO  Base:270 - Entered SupplemenaryBillAmount as 342
+2019-06-07 12:58:32 INFO  Base:274 - Clicked on Attch Go button to upload files
